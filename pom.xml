@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>nom.bpsmannschott.clojure</groupId>
   <artifactId>PoolradWheel</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>Decoder Wheel for Pool of Radiance</name>
   <properties>
     <main.class>poolradwheel</main.class>
